@@ -1,4 +1,3 @@
-import './App.css'
 import Hero from './Components/Hero'
 import Features from './Components/Features'
 import Header from './Components/Header'
@@ -14,9 +13,9 @@ function App() {
       <Hero />
       <Features />
       <Workflow />
-      <Money/>
+      <Money />
       <Testimonials />
-      <Footer/>
+      <Footer />
     </>
   )
 }
